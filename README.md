@@ -1,11 +1,8 @@
+''js
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
+    code: ["Javascript"],
+  
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
@@ -20,7 +17,6 @@ const anmol = {
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-
 <!--
 **anderssonleon/anderssonleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
